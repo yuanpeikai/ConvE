@@ -1,0 +1,9 @@
+train_batch_size=128
+embedding_dim=200
+input_drop=0.2
+hidden_drop=0.3
+feat_drop=0.2
+embedding_shape1=20
+use_bias=True
+hidden_size=9728
+label_smoothing=0.1
